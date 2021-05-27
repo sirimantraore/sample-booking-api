@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /api
+
+spring:
+  jackson:
+    default-property-inclusion: non_null

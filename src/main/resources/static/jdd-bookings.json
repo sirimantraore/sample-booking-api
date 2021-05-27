@@ -1,0 +1,50 @@
+[
+  {
+    "id": 13,
+    "ref": "0fa1a49b-a34d-4f73-9a10-62f2fc58680d",
+    "beginDate": "25-05-2021",
+    "endDate": "06-06-2021",
+    "status": "VALIDATED",
+    "price": 1200,
+    "apartment": {
+      "id": 11,
+      "ref": "6317549e-4aa4-422d-8412-49dc3230de0a",
+      "name": "Studio neuf à Gennevilliers",
+      "type": "STUDIO",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+      "address": {
+        "id": 12,
+        "ref": "9c5094d0-33b6-49b6-808c-caa7587ef235",
+        "streetName": "4 rue jean dumond",
+        "city": "Gennevilliers",
+        "postalCode": "92230"
+      },
+      "bookings": []
+    }
+  },
+  {
+    "id": 14,
+    "ref": "21b2bdc6-725b-47a4-8f5b-82a53dd88a4c",
+    "beginDate": "10-05-2021",
+    "endDate": "20-05-2021",
+    "status": "VALIDATED",
+    "price": 800,
+    "apartment": {
+      "id": 9,
+      "ref": "5889d465-403e-4dc5-928c-5340c4f94a75",
+      "name": "T1 datant de 2020 à Malakoff",
+      "type": "T1",
+      "price": 500,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+      "address": {
+        "id": 10,
+        "ref": "a166cd84-f448-43bd-b9e2-2350f1804fb2",
+        "streetName": "45 rue de Marcel H",
+        "city": "Malakoff",
+        "postalCode": "92240"
+      },
+      "bookings": []
+    }
+  }
+]

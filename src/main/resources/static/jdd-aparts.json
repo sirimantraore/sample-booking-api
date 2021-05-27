@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "ref": "dcd10ddf-01d0-4390-9ca1-7c8cc75ff551",
+    "name": "T1 datant de 2018 à Asnières-sur-Seine",
+    "type": "T1",
+    "price": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 2,
+      "ref": "833d941c-0efb-4133-9516-88bb093263a4",
+      "streetName": "45 rue de Marcel H",
+      "city": "Asnières-sur-Seine",
+      "postalCode": "92600"
+    },
+    "bookings": []
+  },
+  {
+    "id": 3,
+    "ref": "2bcbe52d-1dba-4652-8a1b-19a25c1e2f0c",
+    "name": "Studio neuf à Colombes",
+    "type": "STUDIO",
+    "price": 200,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 4,
+      "ref": "1f865001-a8f8-460b-bb50-7d43ddd79364",
+      "streetName": "4 rue jean dumond",
+      "city": "Colombes",
+      "postalCode": "92700"
+    },
+    "bookings": []
+  },
+  {
+    "id": 5,
+    "ref": "120548eb-4bf5-4341-84b3-44202157c0c4",
+    "name": "Un Studio neuf à Plessis-Robinson",
+    "type": "T1",
+    "price": 350,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 6,
+      "ref": "c3428309-05d6-475c-b5b7-8d873f90c5c2",
+      "streetName": "20 rue jean bernard",
+      "city": "Le Plessis-Robinson",
+      "postalCode": "92350"
+    },
+    "bookings": []
+  },
+  {
+    "id": 7,
+    "ref": "b1230c3d-fa3c-47cb-b071-82f06e3b68a2",
+    "name": "Un autre studio neuf à Gennevilliers",
+    "type": "T3",
+    "price": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 8,
+      "ref": "19455c52-95a9-4b9d-8107-23c26e64c318",
+      "streetName": "10 rue albert camus",
+      "city": "Gennevilliers",
+      "postalCode": "92230"
+    },
+    "bookings": []
+  },
+  {
+    "id": 9,
+    "ref": "5889d465-403e-4dc5-928c-5340c4f94a75",
+    "name": "T1 datant de 2020 à Malakoff",
+    "type": "T1",
+    "price": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 10,
+      "ref": "a166cd84-f448-43bd-b9e2-2350f1804fb2",
+      "streetName": "45 rue de Marcel H",
+      "city": "Malakoff",
+      "postalCode": "92240"
+    },
+    "bookings": []
+  },
+  {
+    "id": 11,
+    "ref": "6317549e-4aa4-422d-8412-49dc3230de0a",
+    "name": "Studio neuf à Gennevilliers",
+    "type": "STUDIO",
+    "price": 200,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis semper sagittis pretium. Curabitur eu commodo odio, a volutpat elit. Mauris eu dapibus sapien, in finibus nisl. Nunc sed egestas ipsum. In porttitor fringilla imperdiet. Integer auctor eget ligula non convallis. Nam sed purus odio.",
+    "address": {
+      "id": 12,
+      "ref": "9c5094d0-33b6-49b6-808c-caa7587ef235",
+      "streetName": "4 rue jean dumond",
+      "city": "Gennevilliers",
+      "postalCode": "92230"
+    },
+    "bookings": []
+  }
+]
